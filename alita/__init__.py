@@ -50,7 +50,7 @@ except Exception as ef:
     sysexit(1)
 
 LOGGER.info("------------------------")
-LOGGER.info("|      Alita_Robot     |")
+LOGGER.info("|      Alitta_Robot     |")
 LOGGER.info("------------------------")
 LOGGER.info(f"Owner: {Config.OWNER_ID}")
 LOGGER.info("Source Code: https://github.com/DivideProjects/Alita_Robot\n")
